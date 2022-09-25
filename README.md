@@ -11,5 +11,5 @@ An app which makes easier to list item with their price and quantity.
 ![gro4](https://user-images.githubusercontent.com/103645724/192130680-e5f02148-e41a-42c6-bf2a-b1bf06112d2d.png)
 ![gro5](https://user-images.githubusercontent.com/103645724/192130700-08da0813-52d4-4b82-8bc2-d7ae561a4781.png)
 
-# Project doc-[Click Here]()
-# Video Demo-[Click Here](https://drive.google.com/file/d/1iJ81xR3EPAnPexjWughwLK4menTQvDgh/view?usp=sharing)
+ Project doc-[Click Here]()
+ Video Demo-[Click Here](https://drive.google.com/file/d/1iJ81xR3EPAnPexjWughwLK4menTQvDgh/view?usp=sharing)
